@@ -1,5 +1,5 @@
-# code
-Code for the BPNN algorithm of the water discharge problem.
+# The water discharge problem
+Code, data, and supplementary materials for the BPNN algorithm of the water discharge problem.
 
 waterdischarge.xlsx: The database we obtained from our experiments.
 

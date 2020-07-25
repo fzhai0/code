@@ -1,6 +1,6 @@
 # code
 Code for the BPNN algorithm of the water discharge problem.
-waterdischarge.xlsx: The database we obtained from our experiments.
+\n waterdischarge.xlsx: The database we obtained from our experiments.
 Algorithm1_waterdischarge.m: The Algorithm 1 as shown in "Algorithm.pdf"
 Algorithm2_waterdischarge.m: The Algorithm 2 as shown in "Algorithm.pdf"
 Algorithm.pdf: Schematic for our algorithm.

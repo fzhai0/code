@@ -1,4 +1,4 @@
-# The water discharge problem
+# Neural network for the water discharge problem
 
 Code, data, and supplementary materials for the BPNN algorithm of the water discharge problem.
 
